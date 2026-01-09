@@ -117,12 +117,22 @@ cpp_modules/
 - Interfaces
 - Polymorphisme pur
 - Classes abstraites vs interfaces
+- Fonctions virtuelles pures
+
+**Exercices :**
+- `ex00` : Polymorphism - Classes abstraites et polymorphisme
+- `ex01` : I don't want to set the world on fire - Interfaces et implémentations
+- `ex02` : Abstract class - Classe abstraite complète
+- `ex03` : Interface & recap - Récapitulatif avec interfaces
 
 **Ce que j'ai appris :**
 - Création de classes abstraites avec fonctions virtuelles pures
 - Implémentation d'interfaces
-- Polymorphisme avancé
+- Polymorphisme avancé avec pointeurs et références
 - Design patterns avec interfaces
+- Différence entre classe abstraite et interface
+- Utilisation de `virtual` et `= 0` pour les fonctions pures
+- Tableaux de pointeurs vers classes abstraites
 
 ## Compilation
 
