@@ -71,11 +71,20 @@ cpp_modules/
 - Forme canonique orthodoxe
 - Opérateurs d'affectation
 - Streams
+- Nombres à virgule fixe (Fixed Point)
+
+**Exercices :**
+- `ex00` : My First Canonical Form - Forme canonique de base
+- `ex01` : Towards a more useful fixed-point number class - Classe Fixed améliorée
+- `ex02` : Now we're talking - Surcharge d'opérateurs arithmétiques et de comparaison
 
 **Ce que j'ai appris :**
-- Surcharge des opérateurs arithmétiques, de comparaison, etc.
+- Surcharge des opérateurs arithmétiques (+, -, *, /)
+- Surcharge des opérateurs de comparaison (==, !=, <, >, <=, >=)
 - Forme canonique (constructeur de copie, opérateur d'affectation, destructeur)
-- Surcharge de `<<` et `>>` pour les streams
+- Surcharge de `<<` pour les streams
+- Représentation des nombres à virgule fixe
+- Gestion de la précision avec les bits fractionnaires
 
 ## Module 03 - Héritage
 
