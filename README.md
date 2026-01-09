@@ -39,7 +39,7 @@ cpp_modules/
 - Création de classes avec membres privés et publics
 - Constructeurs et destructeurs
 
-## Module 01 - Mémoire, pointeurs, références, switch
+## Module 01 - Mémoire, pointeurs, références
 
 **Concepts abordés :**
 - Allocation mémoire (`new`/`delete`)
@@ -132,7 +132,6 @@ cpp_modules/
 - Design patterns avec interfaces
 - Différence entre classe abstraite et interface
 - Utilisation de `virtual` et `= 0` pour les fonctions pures
-- Tableaux de pointeurs vers classes abstraites
 
 ## Compilation
 
@@ -148,23 +147,12 @@ make
 
 ## Ce que j'ai appris globalement
 
-- **Programmation orientée objet** : Classes, encapsulation, héritage, polymorphisme
-- **Gestion mémoire** : `new`/`delete`, pointeurs intelligents (plus tard)
-- **STL** : Utilisation de la bibliothèque standard C++
-- **Surcharge d'opérateurs** : Personnalisation du comportement des opérateurs
-- **Templates** : Programmation générique (modules suivants)
-- **Best practices** : Forme canonique, const-correctness, RAII
-
-## Progression
-
-Ces modules représentent une progression logique :
-1. **Module 00** : Bases du C++
-2. **Module 01** : Gestion mémoire et références
-3. **Module 02** : Surcharge d'opérateurs
-4. **Module 03** : Héritage et polymorphisme
-5. **Module 04** : Classes abstraites et interfaces
-
-Chaque module construit sur les précédents pour créer une compréhension complète du C++.
+- Programmation orientée objet : Classes, encapsulation, héritage, polymorphisme
+- Gestion mémoire : `new`/`delete`, pointeurs intelligents (plus tard)
+- STL : Utilisation de la bibliothèque standard C++
+- Surcharge d'opérateurs : Personnalisation du comportement des opérateurs
+- Templates : Programmation générique (modules suivants)
+- Best practices : Forme canonique, const-correctness, RAII
 
 ---
 
