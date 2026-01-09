@@ -93,12 +93,22 @@ cpp_modules/
 - Protections d'accès
 - Constructeurs et destructeurs dans l'héritage
 - Redéfinition de fonctions membres
+- Polymorphisme
+
+**Exercices :**
+- `ex00` : Aaaaand... OPEN! - Classe de base ClapTrap
+- `ex01` : Serena, my love! - Héritage simple avec ScavTrap
+- `ex02` : Repetitive work - Héritage multiple avec FragTrap et DiamondTrap
+- `ex03` : Now it's easier! - Classe abstraite et interface
 
 **Ce que j'ai appris :**
 - Création de hiérarchies de classes
 - Héritage simple et multiple
 - Polymorphisme avec fonctions virtuelles
 - Gestion des constructeurs/destructeurs dans l'héritage
+- Appels de constructeurs de classe de base
+- Redéfinition de fonctions membres (override)
+- Diamond problem et résolution avec virtual inheritance
 
 ## Module 04 - Classes abstraites, interfaces
 
